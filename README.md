@@ -13,9 +13,9 @@ This project is an **Admin Dashboard** built with **React**, **Recharts**, and *
 
 ## Screenshots
 
-![Screenshot 1](public/s1.jpeg)
-![Screenshot 2](public/s2.jpeg)
-![Screenshot 2](public/s3.png)
+![Screenshot 1](s1.jpeg)
+![Screenshot 2](s2.jpeg)
+![Screenshot 2](s3.png)
 
 
 ## **Getting Started**
